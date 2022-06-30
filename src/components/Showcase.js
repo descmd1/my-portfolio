@@ -8,7 +8,7 @@ const ShowCase =() =>{
                 <div className="overlay flex flex-col items-center justify-center text-white 
                      px-5">
                     <h1 className="text-5xl text-bold 
-                    lg:text-center leg:text-7xl lg:text-56 
+                    lg:text-center leg:text-7xl lg:text-54 
                     text-right mb-10 flex flex-col items-center justify-center mt-20">Hi, I am Christopher Aondoakaa, 
                       <span 
                     className="text-green-500">a Full Stack Engineer.</span> 
