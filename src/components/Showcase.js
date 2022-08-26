@@ -5,7 +5,7 @@ const ShowCase =() =>{
     return(
         <>
            <section className="showcase">
-                <div className="overlay flex flex-col items-center justify-center text-white 
+                <div className="overlay flex flex-col items-center justify-center text-black 
                      px-5">
                     <h1 className="text-5xl text-bold 
                     lg:text-center leg:text-7xl lg:text-54 
